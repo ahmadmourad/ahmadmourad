@@ -148,4 +148,7 @@ skills in real‑world projects.</strong> </li>
 <a href="mailto:workwithahmedm@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> &nbsp;
 <a href="https://www.kaggle.com/ahmedmourad1"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%231A4F91.svg?&style=flat&logo=kaggle&logoColor=white&labelColor=1A4F91&color=1A4F91"/></a> &nbsp;
 <a href="https://codeforces.com/profile/ahmadmourad"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-%23FFCC66.svg?&style=flat&logo=codeforces&logoColor=white"/></a> &nbsp;
-<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<!-- <a href="https://www.linkedin.com/in/your-profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="20" /> -->
+
+
