@@ -113,10 +113,10 @@ skills in real‑world projects.</strong> </li>
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
       <br>TensorFlow
     </td>
-    <td align="center" width="100px">
+<!--     <td align="center" width="100px">
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
       <br>PyTorch
-    </td>
+    </td> -->
   </tr>
 <!--   <tr>
   </tr> -->
