@@ -59,10 +59,10 @@ skills in real‑world projects.</strong> </li>
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
       <br>Arduino
     </td>
-    <td align="center" width="100px">
+<!--     <td align="center" width="100px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
       <br>Java
-    </td>
+    </td> -->
       <td align="center" width="100px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
       <br>MySQL
