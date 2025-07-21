@@ -77,10 +77,10 @@ skills in real‑world projects.</strong> </li>
     </td>
   </tr>
   <tr>
-<!--     <td align="center" width="100px">
+    <td align="center" width="100px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       <br>JavaScript
-    </td> -->
+    </td>
 <!--     <td align="center" width="100px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
       <br>React
