@@ -102,7 +102,7 @@ skills in real‑world projects.</strong> </li>
       <br>Scikit-learn
     </td>
     <td align="center" width="100px">
-      <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="60" height="50"/>
+      <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="50" height="50"/>
       <br>Matplotlib
     </td>
     <td align="center" width="100px">
