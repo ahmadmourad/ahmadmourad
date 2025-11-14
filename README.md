@@ -21,8 +21,8 @@
 <li>Basic understanding of Databases, cloud computing and neural networks.</li>
 <li>Basic skills in Java, MySQL and Docker. </li>
 <!--<li>🌱 I’m currently learning <strong>Web dev, Data Science, Machine Learning, AI.</strong></li>-->
-<li><strong>🌱 Eager to learn more and take on any opportunity to grow and apply my
-skills in real‑world projects.</strong> </li>
+<!-- <li><strong>🌱 Eager to learn more and take on any opportunity to grow and apply my
+skills in real‑world projects.</strong> </li> -->
 </ul>
 
 
