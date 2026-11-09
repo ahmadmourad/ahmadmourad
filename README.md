@@ -7,23 +7,34 @@
 <img src="bismallah.png">
 
 #
+
+**Intelligent Systems Graduate (B.Sc., Alexandria University) | Applied AI & IoT Engineer**
+
+I build practical solutions that connect AI with the physical world: from FastAPI web applications featuring RAG and form-filling automation, to camera-equipped ESP32 systems integrating dual-engine OCR, cloud LLM inference, and MQTT messaging.
+
+- 🩺 **[MediCare](https://github.com/ahmadmourad/medicare-agentic-rag)** — AI-powered medical & pharmacy web assistant with RAG, FastAPI, and intent classification ([Live Demo](https://medicare-agentic-rag.vercel.app/)).
+- 👓 **[Mubsir](https://drive.google.com/drive/folders/1iqz_WihJHR3i3eeS4onrWyY0AkY31FF9?usp=sharing)** — Wearable assistive reading glasses featuring a dual-engine VLM OCR pipeline and Groq LPUs.
+- ❄️ **[Smart Cooling System](https://github.com/ahmadmourad/Smart-Cooling-System-IoT-Final-Project)** — Climate monitoring & cooling IoT system with dual-ESP32 nodes communicating over UART and MQTT.
+- 🎒 **[IoT Bag Monitoring & Tracking](https://drive.google.com/file/d/1nMcWIGhD4zmF1hKArtQWSM8jRTdjYU6C/view?usp=sharing)** — Cloud-based anti-theft tracking system on the Master of Things (MoT) platform with GPS, light sensing, and automated geofencing alerts.
+- 🚗 **[Autonomous 4WD Smart Car](https://github.com/ahmadmourad/Obstacle-avoidance-AND-autonomous-parking-Car)** — Obstacle avoidance and parking robot controlled over MQTT.
+
 <!--
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="325" />
 -->
-<h3>AI and Data Science Student</h3>
-<p>
-<ul> 
+<!-- <h3>AI and Data Science Student</h3> -->
+<!-- <p> -->
+<!-- <ul>  -->
 <!-- <li>Undergradute student with solid understanding of key math and computer science concepts, including linear algebra, calculus, and probability.</li>
 <li>Familiar with data structures like arrays, linked lists, stacks, queues, trees and graphs.</li>
 <li>Proficient in in Python for data science and essential machine learning algorithms such as linear regression, logistic regression, decision trees, KNN, naive bayes and Support vector machine (SVM).</li> -->
-<li>Completed training in IoT, where I learned about C language, ESP32, and the MQTT protocol. Applied these skills to create <a href="https://github.com/ahmadmourad/Smart-Cooling-System-IoT-Final-Project">Smart Cooling System</a>.</li>
+<!-- <li>Completed training in IoT, where I learned about C language, ESP32, and the MQTT protocol. Applied these skills to create <a href="https://github.com/ahmadmourad/Smart-Cooling-System-IoT-Final-Project">Smart Cooling System</a>.</li> -->
 <!-- <li>Knowledgeable in clustering techniques like K‑means, K‑medoids and hierarchical clustering.</li>
 <li>Basic understanding of Databases, cloud computing and neural networks.</li>
 <li>Basic skills in Java, MySQL and Docker. </li> -->
 <!--<li>🌱 I’m currently learning <strong>Web dev, Data Science, Machine Learning, AI.</strong></li>-->
 <!-- <li><strong>🌱 Eager to learn more and take on any opportunity to grow and apply my
 skills in real‑world projects.</strong> </li> -->
-</ul>
+<!-- </ul> -->
 
 
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300">
